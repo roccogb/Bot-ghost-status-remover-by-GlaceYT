@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["IR STORE"];
+const statusMessages = ["dev by brucco","IR STORE"];
 
 
 let currentIndex = 0;
